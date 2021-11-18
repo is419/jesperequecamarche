@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="845c983e-4008-46b3-b358-8a8541d17f07" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +102,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.Tutorial_5 [appStop]">
+  <component name="RunManager" selected="Gradle.Tutorial_5 [build]">
     <configuration name="Tutorial_5 [appBeforeIntegrationTest]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -209,8 +210,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.Tutorial_5 [appStop]" />
         <item itemvalue="Gradle.Tutorial_5 [build]" />
+        <item itemvalue="Gradle.Tutorial_5 [appStop]" />
         <item itemvalue="Gradle.Tutorial_5 [appStart]" />
         <item itemvalue="Gradle.Tutorial_5 [appStartDebug]" />
         <item itemvalue="Gradle.Tutorial_5 [appBeforeIntegrationTest]" />
@@ -225,7 +226,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636629535881</updated>
-      <workItem from="1636629539875" duration="7092000" />
+      <workItem from="1636629539875" duration="7247000" />
+      <workItem from="1637230401559" duration="797000" />
     </task>
     <task id="LOCAL-00001" summary="lab 5">
       <created>1636634549015</created>
@@ -248,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636636151416</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lab 5">
+      <created>1636636659185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636636659185</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
